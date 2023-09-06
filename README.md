@@ -19,9 +19,9 @@ This repository contains a Jupyter Notebook (`HangmanSolver.ipynb`) that impleme
 
 6. When you believe you have solved the puzzle, type "y" to indicate that the game is solved.
 
-## Dependencies
+## Data File
 
-This notebook requires the `words_dictionary.json` file, which should contain a dictionary of words. You may need to provide this file in the same directory as the notebook or modify the code to load the word dictionary from a different location.
+This Hangman Solver uses a data file named `words_dictionary.json` located in the repository. This file contains a dictionary of words and is used for word matching. Make sure you have this file in the same directory as the notebook.
 
 ## License
 
